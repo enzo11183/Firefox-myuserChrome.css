@@ -1,7 +1,7 @@
 # Firefox-userChrome.css
 First, check these links:
-https://www.userchrome.org/
-https://www.askvg.com/tip-enable-colorized-titlebar-again-in-firefox-103-and-later-versions/
+& https://www.userchrome.org/
+& https://www.askvg.com/tip-enable-colorized-titlebar-again-in-firefox-103-and-later-versions/
 
 With this css, firefox will have colored title bar like google chrome.
 If you don't like plain white, give it a try. 
